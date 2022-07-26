@@ -27,7 +27,7 @@ The following vulnerabilities were identified on each target:
   - http is open
   - the http has a vulnerable Wordpress server
 
-![nmap scan](./jpgs/nmap_OS_GitHub.jpg)
+![nmap](./jpgs/nmap_OS_GitHub.jpg)
 
 ### Exploitation
 _TODO: Fill out the details below. Include screenshots where possible._
@@ -54,5 +54,5 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
     - **Exploit Used**
       - Once we have the hash values we crack them using John the Ripper
 ![john](./jpgs/Screen%20Shot%202022-07-23%20at%202.05.56%20PM.jpg)
-      - After John is finished we can log onto steven's user who has root access and gain root ourselves
+      - After John is finished we can log onto steven's user account and got root access
 ![Got Root](./jpgs/FinalFlagRaven.jpg)

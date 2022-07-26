@@ -27,10 +27,8 @@ The following vulnerabilities were identified on each target:
   - http is open
   - the http has a vulnerable Wordpress server
 
-![nmap](./jpgs/nmap_OS_GitHub.jpg)
 
 ### Exploitation
-_TODO: Fill out the details below. Include screenshots where possible._
 
 The Red Team was able to penetrate `Target 1` and retrieve the following confidential data:
 - Target 1

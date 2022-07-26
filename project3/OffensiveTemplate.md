@@ -27,7 +27,7 @@ The following vulnerabilities were identified on each target:
   - http is open
   - the http has a vulnerable Wordpress server
 
-![nmap scan](./jpgs/Screenshot%202022-07-23%20111713.jpg)
+![nmap scan](./jpgs/nmap_OS_GitHub.jpg)
 
 ### Exploitation
 _TODO: Fill out the details below. Include screenshots where possible._
